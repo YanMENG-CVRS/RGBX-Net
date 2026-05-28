@@ -1,11 +1,11 @@
-# RGBXNet
+# RGBX-Net
 
 Official implementation of **Waterbody extraction from the perspective of RGB+X semantic segmentation**
 
 This repository provides the training and evaluation code for two datasets:
 
-- **GID**
-- **S1S2Water**
+- **GID-5**
+- **S1S2-Water**
 
 ## Environment
 
